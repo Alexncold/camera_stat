@@ -13,6 +13,7 @@ h2 {
 
 .container {
   width: 80%;
+  min-width: 800px;
   background-color: #2a3338;
   border-radius: 5px;
   margin: 2em auto;
@@ -75,4 +76,13 @@ h2 {
 .camara_name {
   text-align: left;
   padding-left: 0.5em;
+}
+
+@media screen and (max-width: 768px) {
+  td {
+    font-size: 12px;
+  }
+  .container {
+    min-width: 640px;
+  }
 }
