@@ -1,5 +1,18 @@
 const listaCamaraMostrar = document.getElementById("tabla-dinamica");
+const searchBar = document.getElementById("search-bar");
 let camarasTotales = [];
+
+searchBar.addEventListener("keyup", (e) => {
+  const searchString = e.target.value.toLowerCase();
+
+  const filteredCameras = camarasTotales.filter((camara) => {
+    return (
+      camara.name.toLowerCase().includes(searchString) ||
+      camara._id.toLowerCase().includes(searchString)
+    );
+  });
+  displayCamaras(filteredCameras);
+});
 
 const loadCamaras = async () => {
   try {
