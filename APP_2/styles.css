@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Noto Sans", sans-serif;
+}
+
+h2 {
+  color: white;
+}
+
+.container {
+  width: 80%;
+  background-color: #2a3338;
+  border-radius: 5px;
+  margin: 2em auto;
+  color: white;
+}
+
+.container .datatable td {
+  border-bottom: 1px solid rgb(29, 33, 36);
+}
+
+.container .datatable tbody tr:nth-child(even) {
+  background-color: rgb(61, 68, 73);
+}
+
+.nav-search {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  padding-top: 0.35em;
+  padding-bottom: 0.2em;
+}
+
+.search-input {
+  background-color: rgb(101, 110, 117);
+  border-radius: 3px;
+  border: solid 1px rgb(29, 33, 36);
+  color: white;
+}
+
+.nav-search ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  list-style: none;
+}
+
+.camera-status {
+  padding-left: 1em;
+}
+
+.search-status {
+  padding-right: 1em;
+}
+
+.datatable {
+  width: 100%;
+}
+
+.datatable thead {
+  background-color: #3282b8;
+  color: aliceblue;
+}
+
+#tabla-dinamica {
+  text-align: center;
+}
+
+.camara_name {
+  text-align: left;
+  padding-left: 0.5em;
+}

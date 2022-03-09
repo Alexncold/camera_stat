@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <script
+      src="https://kit.fontawesome.com/d8d35d74cc.js"
+      crossorigin="anonymous"
+    ></script>
+    <title>CAMARAS_STATUS</title>
+  </head>
+  <body>
+    <div class="container">
+      <header class="nav-search">
+        <ul>
+          <li class="camera-status"><h2>Camera Status</h2></li>
+          <li class="search-status">
+            <input type="text" class="search-input" />
+            <i
+              class="fa-solid fa-magnifying-glass"
+              style="color: white; cursor: pointer"
+            ></i>
+          </li>
+        </ul>
+      </header>
+      <table class="datatable">
+        <thead>
+          <tr>
+            <th>Nombre</th>
+            <th>ID</th>
+            <th>Parent Device</th>
+          </tr>
+        </thead>
+        <tbody id="tabla-dinamica">
+          <tr id="generar-items"></tr>
+        </tbody>
+      </table>
+    </div>
+    <script src="app.js"></script>
+  </body>
+</html>
