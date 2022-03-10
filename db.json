@@ -1,0 +1,3369 @@
+{
+  "camaras": [
+    {
+      "_id": "5ffc8fc671842b96401976ad",
+      "active": true,
+      "createdOn": "2021-01-11T17:49:58.045Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "name": "Dvr_2_Bicicletero",
+      "sourceURL": "",
+      "type": "xvr_camera",
+      "subStreamURL": null,
+      "channel": 4,
+      "live": {
+        "enabled": false
+      },
+      "parent_device_id": "601baa90175671191fe1fe80",
+      "parent_device_type": "xvr_devices",
+      "recording": {
+        "enabled": true,
+        "method": "ftp",
+        "storage_provider": "wasabi_s3"
+      },
+      "user_created": "5ffa29ad8cd30c00014864fc"
+    },
+    {
+      "_id": "5ffa2cc55f2fd0c4c1dd6256",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-09T22:23:01.315Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "name": "cam1_11",
+      "sourceURL": "no-aplica",
+      "type": "xvr_camera",
+      "channel": 3,
+      "live": {
+        "enabled": false
+      },
+      "parent_device_id": "601baa63175671191fe1fe7f",
+      "parent_device_type": "xvr_devices",
+      "recording": {
+        "enabled": true,
+        "method": "ftp",
+        "storage_provider": "wasabi_s3"
+      },
+      "user_created": "5ffa29ad8cd30c00014864fc"
+    },
+    {
+      "_id": "5ffa2cd551df5a6ef2393ef1",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-09T22:23:17.082Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "name": "cam1_14",
+      "sourceURL": "no-aplica",
+      "type": "xvr_camera",
+      "channel": 6,
+      "live": {
+        "enabled": false
+      },
+      "parent_device_id": "601baa63175671191fe1fe7f",
+      "parent_device_type": "xvr_devices",
+      "recording": {
+        "enabled": true,
+        "method": "ftp",
+        "storage_provider": "wasabi_s3"
+      },
+      "user_created": "5ffa29ad8cd30c00014864fc"
+    },
+    {
+      "_id": "5ffa2b61cbe4a469b03df34e",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-09T22:17:05.391Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "name": "camara_1",
+      "sourceURL": "no-aplica",
+      "type": "xvr_camera",
+      "channel": 11,
+      "live": {
+        "enabled": false
+      },
+      "parent_device_id": "601baa63175671191fe1fe7f",
+      "parent_device_type": "xvr_devices",
+      "recording": {
+        "enabled": true,
+        "method": "ftp",
+        "storage_provider": "wasabi_s3"
+      },
+      "user_created": "5ffa29ad8cd30c00014864fc"
+    },
+    {
+      "_id": "5ffa2cb2dec93e774cec671c",
+      "active": true,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-09T22:22:42.652Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "name": "dvr1_Acceso_118",
+      "sourceURL": "no-aplica",
+      "type": "xvr_camera",
+      "subStreamURL": null,
+      "channel": 21,
+      "live": {
+        "enabled": false
+      },
+      "parent_device_id": "601baa63175671191fe1fe7f",
+      "parent_device_type": "xvr_devices",
+      "recording": {
+        "enabled": true,
+        "method": "ftp",
+        "storage_provider": "wasabi_s3"
+      },
+      "user_created": "5ffa29ad8cd30c00014864fc"
+    },
+    {
+      "_id": "5ffa2c98b69a8fb5df748217",
+      "active": true,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-09T22:22:16.914Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "name": "dvr1_Calle Aduana1",
+      "sourceURL": "no-aplica",
+      "type": "xvr_camera",
+      "subStreamURL": null,
+      "channel": 8,
+      "live": {
+        "enabled": false
+      },
+      "parent_device_id": "601baa63175671191fe1fe7f",
+      "parent_device_type": "xvr_devices",
+      "recording": {
+        "enabled": true,
+        "method": "ftp",
+        "storage_provider": "wasabi_s3"
+      },
+      "user_created": "5ffa29ad8cd30c00014864fc"
+    },
+    {
+      "_id": "5ffa2cb713918929570d2c61",
+      "active": true,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-09T22:22:47.181Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "name": "dvr1_Calle_118-1",
+      "sourceURL": "no-aplica",
+      "type": "xvr_camera",
+      "subStreamURL": null,
+      "channel": 22,
+      "live": {
+        "enabled": false
+      },
+      "parent_device_id": "601baa63175671191fe1fe7f",
+      "parent_device_type": "xvr_devices",
+      "recording": {
+        "enabled": true,
+        "method": "ftp",
+        "storage_provider": "wasabi_s3"
+      },
+      "user_created": "5ffa29ad8cd30c00014864fc"
+    },
+    {
+      "_id": "5ffa2cbc2195389621341884",
+      "active": true,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-09T22:22:52.210Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "name": "dvr1_Calle_118-2",
+      "sourceURL": "no-aplica",
+      "type": "xvr_camera",
+      "subStreamURL": null,
+      "channel": 23,
+      "live": {
+        "enabled": false
+      },
+      "parent_device_id": "601baa63175671191fe1fe7f",
+      "parent_device_type": "xvr_devices",
+      "recording": {
+        "enabled": true,
+        "method": "ftp",
+        "storage_provider": "wasabi_s3"
+      },
+      "user_created": "5ffa29ad8cd30c00014864fc"
+    },
+    {
+      "_id": "5ffa2cadb969b8a6cb96dc94",
+      "active": true,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-09T22:22:37.783Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "name": "dvr1_Calle_2",
+      "sourceURL": "no-aplica",
+      "type": "xvr_camera",
+      "subStreamURL": null,
+      "channel": 18,
+      "live": {
+        "enabled": false
+      },
+      "parent_device_id": "601baa63175671191fe1fe7f",
+      "parent_device_type": "xvr_devices",
+      "recording": {
+        "enabled": true,
+        "method": "ftp",
+        "storage_provider": "wasabi_s3"
+      },
+      "user_created": "5ffa29ad8cd30c00014864fc"
+    },
+    {
+      "_id": "5ffa2c9e203a0d3ce49b444e",
+      "active": true,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-09T22:22:22.155Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "name": "dvr1_Calle_Aduana2",
+      "sourceURL": "no-aplica",
+      "type": "xvr_camera",
+      "subStreamURL": null,
+      "channel": 9,
+      "live": {
+        "enabled": false
+      },
+      "parent_device_id": "601baa63175671191fe1fe7f",
+      "parent_device_type": "xvr_devices",
+      "recording": {
+        "enabled": true,
+        "method": "ftp",
+        "storage_provider": "wasabi_s3"
+      },
+      "user_created": "5ffa29ad8cd30c00014864fc"
+    },
+    {
+      "_id": "5ffa2ca3c7835832abe38d12",
+      "active": true,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-09T22:22:27.716Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "name": "dvr1_Frente_2",
+      "sourceURL": "no-aplica",
+      "type": "xvr_camera",
+      "subStreamURL": null,
+      "channel": 10,
+      "live": {
+        "enabled": false
+      },
+      "parent_device_id": "601baa63175671191fe1fe7f",
+      "parent_device_type": "xvr_devices",
+      "recording": {
+        "enabled": true,
+        "method": "ftp",
+        "storage_provider": "wasabi_s3"
+      },
+      "user_created": "5ffa29ad8cd30c00014864fc"
+    },
+    {
+      "_id": "5ffa2ccaf5b77fbceba8742e",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-09T22:23:06.726Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "name": "dvr1_Lateral_Derecho",
+      "sourceURL": "no-aplica",
+      "type": "xvr_camera",
+      "subStreamURL": null,
+      "channel": 4,
+      "live": {
+        "enabled": false
+      },
+      "parent_device_id": "601baa63175671191fe1fe7f",
+      "parent_device_type": "xvr_devices",
+      "recording": {
+        "enabled": true,
+        "method": "ftp",
+        "storage_provider": "wasabi_s3"
+      },
+      "user_created": "5ffa29ad8cd30c00014864fc"
+    },
+    {
+      "_id": "5ffa2cd0dc85c2a73942564b",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-09T22:23:12.634Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "name": "dvr1_Lateral_Izquierdo",
+      "sourceURL": "no-aplica",
+      "type": "xvr_camera",
+      "subStreamURL": null,
+      "channel": 5,
+      "live": {
+        "enabled": false
+      },
+      "parent_device_id": "601baa63175671191fe1fe7f",
+      "parent_device_type": "xvr_devices",
+      "recording": {
+        "enabled": true,
+        "method": "ftp",
+        "storage_provider": "wasabi_s3"
+      },
+      "user_created": "5ffa29ad8cd30c00014864fc"
+    },
+    {
+      "_id": "5ffa2ca883091cff1f5e9690",
+      "active": true,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-09T22:22:32.083Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "name": "dvr1_Porton_Barraca",
+      "sourceURL": "no-aplica",
+      "type": "xvr_camera",
+      "subStreamURL": null,
+      "channel": 17,
+      "live": {
+        "enabled": false
+      },
+      "parent_device_id": "601baa63175671191fe1fe7f",
+      "parent_device_type": "xvr_devices",
+      "recording": {
+        "enabled": true,
+        "method": "ftp",
+        "storage_provider": "wasabi_s3"
+      },
+      "user_created": "5ffa29ad8cd30c00014864fc"
+    },
+    {
+      "_id": "5ffa2cc02c1c691b0356f0b1",
+      "active": true,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-09T22:22:56.798Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "name": "dvr1_Salida_Balanza",
+      "sourceURL": "no-aplica",
+      "type": "xvr_camera",
+      "subStreamURL": null,
+      "channel": 19,
+      "live": {
+        "enabled": false
+      },
+      "parent_device_id": "601baa63175671191fe1fe7f",
+      "parent_device_type": "xvr_devices",
+      "recording": {
+        "enabled": true,
+        "method": "ftp",
+        "storage_provider": "wasabi_s3"
+      },
+      "user_created": "5ffa29ad8cd30c00014864fc"
+    },
+    {
+      "_id": "5ffa2cdb9861d3b023905c73",
+      "active": true,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-09T22:23:23.081Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "name": "dvr1_Sect.Cons.1",
+      "sourceURL": "no-aplica",
+      "type": "xvr_camera",
+      "subStreamURL": null,
+      "channel": 7,
+      "live": {
+        "enabled": false
+      },
+      "parent_device_id": "601baa63175671191fe1fe7f",
+      "parent_device_type": "xvr_devices",
+      "recording": {
+        "enabled": true,
+        "method": "ftp",
+        "storage_provider": "wasabi_s3"
+      },
+      "user_created": "5ffa29ad8cd30c00014864fc"
+    },
+    {
+      "_id": "5ffa2c93238a1d977a3e4bc4",
+      "active": true,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-09T22:22:11.640Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "name": "dvr1_Sect.Cons.2",
+      "sourceURL": "no-aplica",
+      "type": "xvr_camera",
+      "subStreamURL": null,
+      "channel": 1,
+      "live": {
+        "enabled": false
+      },
+      "parent_device_id": "601baa63175671191fe1fe7f",
+      "parent_device_type": "xvr_devices",
+      "recording": {
+        "enabled": true,
+        "method": "ftp",
+        "storage_provider": "wasabi_s3"
+      },
+      "user_created": "5ffa29ad8cd30c00014864fc"
+    },
+    {
+      "_id": "5ffc904fc64e0e99275e644b",
+      "active": true,
+      "createdOn": "2021-01-11T17:52:15.026Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "name": "dvr2_CALLE_2.1",
+      "sourceURL": "",
+      "type": "xvr_camera",
+      "subStreamURL": null,
+      "channel": 9,
+      "live": {
+        "enabled": false
+      },
+      "parent_device_id": "601baa90175671191fe1fe80",
+      "parent_device_type": "xvr_devices",
+      "recording": {
+        "enabled": true,
+        "method": "ftp",
+        "storage_provider": "wasabi_s3"
+      },
+      "user_created": "5ffa29ad8cd30c00014864fc"
+    },
+    {
+      "_id": "5ffc8fbed9e0d12d4dc1e364",
+      "active": true,
+      "createdOn": "2021-01-11T17:49:50.408Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "name": "dvr2_Est.2",
+      "sourceURL": "",
+      "type": "xvr_camera",
+      "subStreamURL": null,
+      "channel": 3,
+      "live": {
+        "enabled": false
+      },
+      "parent_device_id": "601baa90175671191fe1fe80",
+      "parent_device_type": "xvr_devices",
+      "recording": {
+        "enabled": true,
+        "method": "ftp",
+        "storage_provider": "wasabi_s3"
+      },
+      "user_created": "5ffa29ad8cd30c00014864fc"
+    },
+    {
+      "_id": "5ffc9001183d3807e59e72a2",
+      "active": true,
+      "createdOn": "2021-01-11T17:50:57.459Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "name": "dvr2_ING.ENFERMERIA",
+      "sourceURL": "",
+      "type": "xvr_camera",
+      "subStreamURL": null,
+      "channel": 8,
+      "live": {
+        "enabled": false
+      },
+      "parent_device_id": "601baa90175671191fe1fe80",
+      "parent_device_type": "xvr_devices",
+      "recording": {
+        "enabled": true,
+        "method": "ftp",
+        "storage_provider": "wasabi_s3"
+      },
+      "user_created": "5ffa29ad8cd30c00014864fc"
+    },
+    {
+      "_id": "5ffc906de01f936f141e7709",
+      "active": true,
+      "createdOn": "2021-01-11T17:52:45.190Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "name": "dvr2_Jardin.1",
+      "sourceURL": "",
+      "type": "xvr_camera",
+      "subStreamURL": null,
+      "channel": 14,
+      "live": {
+        "enabled": false
+      },
+      "parent_device_id": "601baa90175671191fe1fe80",
+      "parent_device_type": "xvr_devices",
+      "recording": {
+        "enabled": true,
+        "method": "ftp",
+        "storage_provider": "wasabi_s3"
+      },
+      "user_created": "5ffa29ad8cd30c00014864fc"
+    },
+    {
+      "_id": "5ffc9073d7eb9bae54f207f9",
+      "active": true,
+      "createdOn": "2021-01-11T17:52:51.362Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "name": "dvr2_Jardin_3",
+      "sourceURL": "",
+      "type": "xvr_camera",
+      "subStreamURL": null,
+      "channel": 15,
+      "live": {
+        "enabled": false
+      },
+      "parent_device_id": "601baa90175671191fe1fe80",
+      "parent_device_type": "xvr_devices",
+      "recording": {
+        "enabled": true,
+        "method": "ftp",
+        "storage_provider": "wasabi_s3"
+      },
+      "user_created": "5ffa29ad8cd30c00014864fc"
+    },
+    {
+      "_id": "5ffc9067e5c2e627f5f3943e",
+      "active": true,
+      "createdOn": "2021-01-11T17:52:39.285Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "name": "dvr2_Port.114",
+      "sourceURL": "",
+      "type": "xvr_camera",
+      "subStreamURL": null,
+      "channel": 13,
+      "live": {
+        "enabled": false
+      },
+      "parent_device_id": "601baa90175671191fe1fe80",
+      "parent_device_type": "xvr_devices",
+      "recording": {
+        "enabled": true,
+        "method": "ftp",
+        "storage_provider": "wasabi_s3"
+      },
+      "user_created": "5ffa29ad8cd30c00014864fc"
+    },
+    {
+      "_id": "5ffc92be909944b8f13b5dfa",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:02:38.949Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr4_Conf.7",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3",
+      "subStreamURL": null
+    },
+    {
+      "_id": "5ffc92d2087d9fb067055b8f",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:02:58.592Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr4_Ctrl.Final.Lanar",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3",
+      "subStreamURL": null
+    },
+    {
+      "_id": "5ffc97142a25609d69481886",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:21:08.811Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr7_Dep.Cajas",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3",
+      "subStreamURL": null
+    },
+    {
+      "_id": "5ffc9737d638c3c1eb4f5040",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:21:43.460Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr7_Secadero",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3",
+      "subStreamURL": null
+    },
+    {
+      "_id": "5ffc9055470ed2008ad27c55",
+      "active": false,
+      "createdOn": "2021-01-11T17:52:21.104Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "name": "dvr_2_10",
+      "sourceURL": "",
+      "type": "xvr_camera",
+      "subStreamURL": null,
+      "channel": 10,
+      "live": {
+        "enabled": false
+      },
+      "parent_device_id": "601baa90175671191fe1fe80",
+      "parent_device_type": "xvr_devices",
+      "recording": {
+        "enabled": true,
+        "method": "ftp",
+        "storage_provider": "wasabi_s3"
+      },
+      "user_created": "5ffa29ad8cd30c00014864fc"
+    },
+    {
+      "_id": "5ffc905b6108f81e0c5d6c59",
+      "active": false,
+      "createdOn": "2021-01-11T17:52:27.412Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "name": "dvr_2_11",
+      "sourceURL": "",
+      "type": "xvr_camera",
+      "channel": 11,
+      "live": {
+        "enabled": false
+      },
+      "parent_device_id": "601baa90175671191fe1fe80",
+      "parent_device_type": "xvr_devices",
+      "recording": {
+        "enabled": true,
+        "method": "ftp",
+        "storage_provider": "wasabi_s3"
+      },
+      "user_created": "5ffa29ad8cd30c00014864fc"
+    },
+    {
+      "_id": "5ffc9060cb5e04cb55702eaf",
+      "active": false,
+      "createdOn": "2021-01-11T17:52:32.982Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "name": "dvr_2_12",
+      "sourceURL": "",
+      "type": "xvr_camera",
+      "channel": 12,
+      "live": {
+        "enabled": false
+      },
+      "parent_device_id": "601baa90175671191fe1fe80",
+      "parent_device_type": "xvr_devices",
+      "recording": {
+        "enabled": true,
+        "method": "ftp",
+        "storage_provider": "wasabi_s3"
+      },
+      "user_created": "5ffa29ad8cd30c00014864fc"
+    },
+    {
+      "_id": "5ffc907967735a9fcf767e52",
+      "active": false,
+      "createdOn": "2021-01-11T17:52:57.963Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "name": "dvr_2_16",
+      "sourceURL": "",
+      "type": "xvr_camera",
+      "subStreamURL": null,
+      "channel": 16,
+      "live": {
+        "enabled": false
+      },
+      "parent_device_id": "601baa90175671191fe1fe80",
+      "parent_device_type": "xvr_devices",
+      "recording": {
+        "enabled": true,
+        "method": "ftp",
+        "storage_provider": "wasabi_s3"
+      },
+      "user_created": "5ffa29ad8cd30c00014864fc"
+    },
+    {
+      "_id": "5ffc8fe52dea89c290a8c87d",
+      "active": false,
+      "createdOn": "2021-01-11T17:50:29.327Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "name": "dvr_2_5",
+      "sourceURL": "",
+      "type": "xvr_camera",
+      "subStreamURL": null,
+      "channel": 5,
+      "live": {
+        "enabled": false
+      },
+      "parent_device_id": "601baa90175671191fe1fe80",
+      "parent_device_type": "xvr_devices",
+      "recording": {
+        "enabled": true,
+        "method": "ftp",
+        "storage_provider": "wasabi_s3"
+      },
+      "user_created": "5ffa29ad8cd30c00014864fc"
+    },
+    {
+      "_id": "5ffc8feba590041fef21a9ba",
+      "active": false,
+      "createdOn": "2021-01-11T17:50:35.615Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "name": "dvr_2_6",
+      "sourceURL": "",
+      "type": "xvr_camera",
+      "live": {
+        "enabled": false
+      },
+      "parent_device_id": "601baa90175671191fe1fe80",
+      "parent_device_type": "xvr_devices",
+      "recording": {
+        "enabled": true,
+        "method": "ftp",
+        "storage_provider": "wasabi_s3"
+      },
+      "user_created": "5ffa29ad8cd30c00014864fc",
+      "channel": 6
+    },
+    {
+      "_id": "5ffc8f49f1801dee5446c489",
+      "active": true,
+      "createdOn": "2021-01-11T17:47:53.007Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "name": "dvr_2_ESTACIONAMIENTO",
+      "sourceURL": "",
+      "type": "xvr_camera",
+      "subStreamURL": null,
+      "live": {
+        "enabled": false
+      },
+      "parent_device_id": "601baa90175671191fe1fe80",
+      "parent_device_type": "xvr_devices",
+      "recording": {
+        "enabled": true,
+        "method": "ftp",
+        "storage_provider": "wasabi_s3"
+      },
+      "user_created": "5ffa29ad8cd30c00014864fc",
+      "channel": 1
+    },
+    {
+      "_id": "5ffc8ff7369960e6e420d1fd",
+      "active": true,
+      "createdOn": "2021-01-11T17:50:47.152Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "name": "dvr_2_Jardin.5",
+      "sourceURL": "",
+      "type": "xvr_camera",
+      "subStreamURL": null,
+      "live": {
+        "enabled": false
+      },
+      "parent_device_id": "601baa90175671191fe1fe80",
+      "parent_device_type": "xvr_devices",
+      "recording": {
+        "enabled": true,
+        "method": "ftp",
+        "storage_provider": "wasabi_s3"
+      },
+      "user_created": "5ffa29ad8cd30c00014864fc",
+      "channel": 7
+    },
+    {
+      "_id": "5ffc8fb5737077ac7d42086a",
+      "active": true,
+      "createdOn": "2021-01-11T17:49:41.728Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "name": "dvr_2_Porton.1",
+      "sourceURL": "",
+      "type": "xvr_camera",
+      "subStreamURL": null,
+      "live": {
+        "enabled": false
+      },
+      "parent_device_id": "601baa90175671191fe1fe80",
+      "parent_device_type": "xvr_devices",
+      "recording": {
+        "enabled": true,
+        "method": "ftp",
+        "storage_provider": "wasabi_s3"
+      },
+      "user_created": "5ffa29ad8cd30c00014864fc",
+      "channel": 2
+    },
+    {
+      "_id": "5ffc9181ee67bf1d5c668247",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T17:57:21.576Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_3_1",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc91bc264d79eed9320fa6",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T17:58:20.915Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_3_11",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc91c3c78f4facdfb95741",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T17:58:27.103Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_3_12",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc91c8e872a3210bdf10eb",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T17:58:32.071Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_3_13",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc91ce8589b232db081f9a",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T17:58:38.107Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_3_14",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc91d3d74fcc8015572e9c",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T17:58:43.546Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_3_15",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc91d9138fb4a1a0b1b590",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T17:58:49.813Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_3_16",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc918736017cdac2be9518",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T17:57:27.064Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_3_2",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc918d5c5a7cb5d8748075",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T17:57:33.570Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_3_3",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc9194a9ca4d187533aa0d",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T17:57:40.053Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_3_4",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc9199b745a60e35aca7ad",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T17:57:45.076Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_3_5",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc919ef1c1b765c3911728",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T17:57:50.336Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_3_6",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc91a3e1bcd60e1b46ced9",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T17:57:55.768Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_3_7",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc91a9360910a8fdb73201",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T17:58:01.427Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_3_8",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc91b0404d09699bcbe1d1",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T17:58:08.695Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_3_9",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc91b7927af6abe107431d",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T17:58:15.635Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_3_descarga_grasa",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3",
+      "subStreamURL": null
+    },
+    {
+      "_id": "5ffc92b46f1962e20ce61ea7",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:02:28.716Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_4_1",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc92e10353af4e8028ecd7",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:03:13.866Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_4_10",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc92e80c114818afd021f8",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:03:20.268Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_4_11",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc92ecf43f0eefb8cc6934",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:03:24.816Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_4_12",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc92f10161fed077070c9e",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:03:29.872Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_4_13",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc92f682c42175d9f1afd9",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:03:34.380Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_4_14",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc92fb02634d245fd13956",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:03:39.607Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_4_15",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc9300468898707957c04d",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:03:44.243Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_4_16",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc92b9bd28c4882b33b4d1",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:02:33.513Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_4_2",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc92c4b4a4631766340aac",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:02:44.410Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_4_4",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc92c96954c4b213116665",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:02:49.065Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_4_5",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc92cdc6ce2d2a728f0760",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:02:53.499Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_4_6",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc92d77dac1fa65a4014a8",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:03:03.309Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_4_8",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc92dc615478960037a3b9",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:03:08.838Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_4_9",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc94314059278bededc70c",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:08:49.138Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_5_1",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc945f8066a5466ef6d7f6",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:09:35.354Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_5_10",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc9464eb1f9f03cc87e0e3",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:09:40.909Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_5_11",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc9469952476da5ed7f79f",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:09:45.709Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_5_12",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc946ead99db39f466a3f5",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:09:50.579Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_5_13",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc94733c60a014b8089f85",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:09:55.255Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_5_14",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc9477f777e4415ef984c4",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:09:59.729Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_5_15",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc947e2c81616c56282af0",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:10:06.916Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_5_16",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc9436db9d2554a91ce2ca",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:08:54.848Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_5_2",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc9441579fd13ad7887121",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:09:05.191Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_5_4",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc9447d65857d450356d7a",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:09:11.362Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_5_5",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc944c558add288d0ea26c",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:09:16.667Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_5_6",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc9451866f33ae190041c2",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:09:21.426Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_5_7",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc94555df1180447357fa6",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:09:25.902Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_5_8",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc945a6670f60837655958",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:09:30.797Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_5_9",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc943b3163857f923c3dea",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:08:59.758Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_5_ingreso",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3",
+      "subStreamURL": null
+    },
+    {
+      "_id": "5ffc95959427f76c5571bccc",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:14:45.548Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_6_1",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc95c737234f9339819f62",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:15:35.154Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_6_10",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc95cce25365c812593a8a",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:15:40.494Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_6_11",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc95d100b067de60807abe",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:15:45.526Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_6_12",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc95d79e9bd149fb2188d7",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:15:51.318Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_6_13",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc95dc4676c91bc44cee50",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:15:56.866Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_6_14",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc95e23495d8b29fd88cec",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:16:02.013Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_6_15",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc95e7ec07a881ca54a026",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:16:07.128Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_6_16",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc95a0dd719a6e7a05393a",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:14:56.994Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_6_3",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc95a7cd8945dff7e2878b",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:15:03.565Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_6_4",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc95ade01f3de5bcbe46de",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:15:09.217Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_6_5",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc95b25f599cc8e033712c",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:15:14.652Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_6_6",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc95c1a1518caccfe70a88",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:15:29.849Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_6_9",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc95b74fd9782dd7067a11",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:15:19.795Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_6_calle_114_1",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3",
+      "subStreamURL": null
+    },
+    {
+      "_id": "5ffc95bcb84d2786a7817611",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:15:24.983Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_6_calle_114_2",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3",
+      "subStreamURL": null
+    },
+    {
+      "_id": "5ffc959b031a56f5adaf7c91",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:14:51.029Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_6_calle_2",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3",
+      "subStreamURL": null
+    },
+    {
+      "_id": "5ffc9741dad5352cfac848d9",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:21:53.679Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_7_10",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc974798a856fda3417b99",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:21:59.352Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_7_11",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc974c61918dff71385957",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:22:04.318Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_7_12",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc97510ec8593a5254a886",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:22:09.218Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_7_13",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc97560314088ffed452b9",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:22:14.617Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_7_14",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc975b60a64dfc73ee1843",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:22:19.656Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_7_15",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc976157cee3815cef1247",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:22:25.138Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_7_16",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc971955cf7c908bc000db",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:21:13.331Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_7_2",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc971d3cb5899a264727a6",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:21:17.862Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_7_3",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc972206c31634ce5fbecd",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:21:22.558Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_7_4",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc9727c8eff8c684f04cc3",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:21:27.698Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_7_5",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc972dd5d9d8801436f6db",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:21:33.398Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_7_6",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc973210691007d39686a2",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:21:38.900Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_7_7",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc973cb5ad2ede272b95a0",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:21:48.803Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_7_9",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc98c2c043daa3d93a0f4d",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:28:18.351Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_8_10",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc98c757f8cab43afeef96",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:28:23.550Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_8_11",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc98cd4bd7158bdde5e825",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:28:29.524Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_8_12",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc98d2635b368256f1d0cd",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:28:34.753Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_8_13",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc98d87ebe1c8260034324",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:28:40.813Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_8_14",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc98deb3ae647190a84d45",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:28:46.850Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_8_15",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc98e4f051d4c4dad58360",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:28:52.723Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_8_16",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc989ac89024fcf6dc8e43",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:27:38.897Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_8_3",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc989fb410d0d6b6bda5fd",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:27:43.919Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_8_4",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc98a59dc24960fc284fa8",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:27:49.313Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_8_5",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc98ab136352d9a118b6a6",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:27:55.839Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_8_6",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc98b03979c2a42b8428cf",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:28:00.731Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_8_7",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc98b6ff46f81a6144f248",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:28:06.649Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_8_8",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc98bd29da35a62c25782d",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:28:13.167Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_8_9",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3"
+    },
+    {
+      "_id": "5ffc988fef20cef000f5e3ab",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:27:27.683Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_8_pileta_1",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3",
+      "subStreamURL": null
+    },
+    {
+      "_id": "5ffc9894c2c3231664c6ff5c",
+      "active": false,
+      "cameraConfiguration": {
+        "motionDetectionSetup": {
+          "enabled": true,
+          "mask": null
+        },
+        "cameraProfileSetup": {
+          "method": "auto",
+          "cameraProfileID": "59b52743943393f3f93a23f6"
+        }
+      },
+      "createdOn": "2021-01-11T18:27:32.964Z",
+      "customer": "5ffa29ad8cd30c00014864fc",
+      "heartbeat": 0,
+      "name": "dvr_8_pileta_2",
+      "sourceURL": "rtmp://rtmpdemo.monitor-center.com:4000/copy/",
+      "target": "cloud",
+      "push_server_id": "staging_cem_881",
+      "type": "ip_ftp_webrtc",
+      "server": null,
+      "status": "active",
+      "engine_image": "registry.monitor-center.com/newengine_aws_nodejs8_nginx:vultr_s3_p",
+      "storage_provider": "wasabi_s3",
+      "subStreamURL": null
+    }
+  ]
+}
